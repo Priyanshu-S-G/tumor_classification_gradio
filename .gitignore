@@ -1,0 +1,10 @@
+# Ignore large model files
+*.keras
+*.h5
+*.pkl
+*.joblib
+*.ckpt
+
+# Optional: ignore logs or checkpoints
+checkpoint/
+*.log
