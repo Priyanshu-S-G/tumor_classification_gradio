@@ -1,0 +1,5 @@
+dataset - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+the notebooks were made in Kaggle notebook, hence loading of datasets and models are a bit different.
+
+the notebooks of custom cnn and inceptionv3 model were lost due to Kaggle server issues and had to be remade, hence the graphs represented in graph_plots.ipynb and report mismatch from those in notebooks
