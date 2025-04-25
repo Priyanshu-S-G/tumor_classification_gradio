@@ -8,3 +8,4 @@
 # Optional: ignore logs or checkpoints
 checkpoint/
 *.log
+*.keras
